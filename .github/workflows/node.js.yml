@@ -30,6 +30,6 @@ jobs:
     - run: npm run build --if-present
     - name : Copy files to /usr/share/nginx/
       run: |
-        sudo cp -r /home/ec2-user/actions-runner/_work/awsfront-end/awsfront-end/build  /usr/share/nginx/
+        sudo cp -r /home/ubuntu/actions-runner/_work/awsfront-end/awsfront-end/build  /usr/share/nginx/
         sudo chown -R $USER:$USER /usr/share/nginx/
  
