@@ -1,0 +1,14 @@
+.question-container{
+    width: 100%;
+    padding: 20px;
+    height: 30vw;
+    display: flex;
+    align-items: center;
+    background: red;
+}
+.question{
+    background: white;
+    height: 20vw;
+    width: 30vw;
+
+}
