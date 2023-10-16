@@ -56,9 +56,9 @@ export default function Home() {
         </h1>
         <div className='text-gray-400 text-xs sm:text-sm'>
         <p className='mb-4 text-slate-700'>E-commerce Focus: Ecom Express primarily caters to the e-commerce sector. It offers a wide range of logistics and supply chain services tailored to the unique needs of online retailers, helping them reach customers across India.</p>
-          <br />
+          
           <p className='mb-4 text-slate-700'>Pan-India Presence: Ecom Express has a vast network of delivery centers and hubs across India, which enables them to offer extensive coverage and reach in both urban and rural areas. This widespread presence ensures timely and extensive delivery services.</p>
-          <br />
+          
           <p className='mb-4 text-slate-700'>Last-Mile Delivery: One of Ecom Express's key strengths is its last-mile delivery capabilities. They specialize in delivering packages directly to the customer's doorstep, ensuring that e-commerce shipments reach their destination safely and on time.</p>
           <br />
           <p className='mb-4 text-slate-700'>Customized Solutions: Ecom Express understands that different businesses have unique logistics requirements. They offer tailored solutions that cater to the specific needs of their clients, whether it's related to same-day delivery, express shipping, or other special requirements.</p>
