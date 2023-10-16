@@ -55,7 +55,7 @@ export default function Home() {
           place with ease
         </h1>
         <div className='text-gray-400 text-xs sm:text-sm'>
-        E-commerce Focus: Ecom Express primarily caters to the e-commerce sector. It offers a wide range of logistics and supply chain services tailored to the unique needs of online retailers, helping them reach customers across India.
+        <p className='mb-4 text-slate-700'>E-commerce Focus: Ecom Express primarily caters to the e-commerce sector. It offers a wide range of logistics and supply chain services tailored to the unique needs of online retailers, helping them reach customers across India.</p>
           <br /> <br />
           Pan-India Presence: Ecom Express has a vast network of delivery centers and hubs across India, which enables them to offer extensive coverage and reach in both urban and rural areas. This widespread presence ensures timely and extensive delivery services.
           <br /> <br />
