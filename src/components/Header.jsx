@@ -12,7 +12,7 @@ export default function Header() {
     const urlParams = new URLSearchParams(window.location.search);
     urlParams.set('searchTerm', searchTerm);
     const searchQuery = urlParams.toString();
-    navigate(`/search?${searchQuery}`);
+    navigate(`/search?${searchQuery}`); a
   };
 
   useEffect(() => {
@@ -28,7 +28,7 @@ export default function Header() {
         <Link to='/'>
           <h1 className='font-bold text-sm sm:text-xl flex flex-wrap'>
             <span className='text-slate-500'>E-COMMERCE </span>
-            {/* <span className='text-slate-700'>Estate</span> */}
+
           </h1>
         </Link>
         <form
